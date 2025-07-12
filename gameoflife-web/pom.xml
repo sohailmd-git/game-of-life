@@ -58,7 +58,7 @@
             <plugin>
                 <groupId>net.serenity-bdd.maven.plugins</groupId>
                 <artifactId>serenity-maven-plugin</artifactId>
-                <version>${thucydides.version}</version>
+                <version>4.0.42</version>
                 <executions>
                     <execution>
                         <id>serenity-reports</id>
