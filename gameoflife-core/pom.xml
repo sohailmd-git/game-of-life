@@ -26,7 +26,7 @@
                 <artifactId>maven-javadoc-plugin</artifactId>
                 <version>3.11.2</version>
                 <configuration>
-                    <destDir>${project.build.directory}/site/apidocs</destDir>
+                    <destDir>${project.build.directory}/site/javadoc</destDir>
                 </configuration>
             </plugin>
             <plugin>
